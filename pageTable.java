@@ -6,8 +6,7 @@ import java.util.*;
 public class pageTable {
 	
 	//update(), lookup(), isValid() 
-	//and other methods that correspond to the use of the simplest page table scheme
-	//explained in the lectures is likely best. 
+
 	
 	Map<Integer, Integer> table = new HashMap<Integer, Integer>();
 	//used to retrieve key from value
