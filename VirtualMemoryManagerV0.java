@@ -70,7 +70,7 @@ public class VirtualMemoryManagerV0 {
   	 * @throws MemoryException If there is an invalid access
   	 */
    	public void printDiskContent() throws MemoryException {
-  		// TO IMPLEMENT: V1, V2, V3, V4
+		//Fill out later
 
   		return;
   	}
@@ -82,7 +82,7 @@ public class VirtualMemoryManagerV0 {
   	 * @throws MemoryException If there is an invalid access
   	 */
   	public void writeBackAllPagesToDisk() throws MemoryException {
-  		// TO IMPLEMENT: V1, V2, V3, V4
+		//Fill out later
   	}
 
   	/**
@@ -93,7 +93,7 @@ public class VirtualMemoryManagerV0 {
   	 */
   	public int getPageFaultCount() {
 		int count = 0;
-  		// TO IMPLEMENT: V1, V2, V3, V4
+		//Fill out later
   		return count;
   	}
 
@@ -106,7 +106,7 @@ public class VirtualMemoryManagerV0 {
   	 */
   	public int getTransferedByteCount() {
 		int count = 0;
-  		// TO IMPLEMENT: V1, V2, V3, V4
+		//Fill out later
   		return count;
   	}
 }
